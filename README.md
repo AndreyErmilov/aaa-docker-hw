@@ -1,6 +1,9 @@
 # Homework
 Docker lecture repository at [Avito's Analytics Academy](https://avito-analytics-academy.ru/) Data Science course.
 
+# Comments
+I hope I will have a chance to fix bugs according to your review before the deadline.
+
 ### Step 1: 
 To understand how the application works, install the dependencies and open these urls (using curl or a browser):
 ```bash
